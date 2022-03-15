@@ -12,4 +12,4 @@ echo [template]
 echo to_address =
 echo subject =
 echo text =
-} >_config_.ini
+} >config.ini
